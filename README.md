@@ -1,4 +1,4 @@
-## Teste Inmetrics - Descrever como executar o projeto
+## Teste Conhecimento - Descrever como executar o projeto
 
 ## Framework para testes de UI 
 
